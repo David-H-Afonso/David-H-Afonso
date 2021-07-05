@@ -6,8 +6,10 @@
 <p>I am from Spain and I love tech related topics, videogames and geek things! 🚀✨👨‍💻</p>
 <h2>🌱 I’m currently learning</h2>
 <ul>
+  <h3>Improving:</h3>
   <li>🔰 Vue.JS</li>
   <li>☕ Front-End development</li>
+  <h3>Learning:</h3>
   <li>🐍 Python</li>
   <li>🖥 Django</li>
 </ul>
