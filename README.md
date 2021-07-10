@@ -18,5 +18,5 @@
 <h2>📫 How to reach me</h2>
 <p>
   <a href="https://twitter.com/RikkuESP" ><img width=45px src="https://www.sharethis.com/wp-content/uploads/2017/05/Twitter.png" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/david-hormiga-afonso/" ><img width=50px src="https://lh3.googleusercontent.com/proxy/pcc3fjOGWo-97YpzxLGn4ESjhhVVMG6janyImWkzZArfETdAQNM-quc3DE__DHcz0xsUDkkkDc06o3SSjvch_od3TubbJSi-xfT1p_WcJHEI96WtQ2R2N_64BiD0uZHOXbmVidM6H0zK0gA" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/david-hormiga-afonso/" ><img width=50px src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" alt="LinkedIn"></a>
 </p>
