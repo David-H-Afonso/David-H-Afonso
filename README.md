@@ -6,10 +6,12 @@
 <p>I am from Spain and I love tech related topics, videogames and geek things! 🚀✨👨‍💻</p>
 <h2>🌱 I’m currently learning</h2>
 <ul>
-  <h3>Always learning:</h3>
+  <h3>Working on:</h3>
   <li>⚛ ReactJS</li>
   <li>☕ Front-End development</li>
   <h3>I've Knowledge in:</h3>
+  <li>☕ Front-End development (HTML,CSS,JS)</li>
+  <li>⚛ ReactJS</li>
   <li>🔰 Vue.JS</li>
   <li>🛍 Shopify / Liquid</li>
   <h3>Learning:</h3>
