@@ -19,7 +19,7 @@
   <li>🖥 Django</li>
 </ul>
 <h2>⚡ Fun fact</h2>
-<p>I **love** creating Excels 📋💹. Every single time that I can 🤣</p>
+<p>I <strong>love</strong> creating Excels 📋💹. Every single time that I can 🤣</p>
 <h2>📫 How to reach me</h2>
 <p>
   <a href="https://twitter.com/davidhafo" ><img width=45px src="https://www.sharethis.com/wp-content/uploads/2017/05/Twitter.png" alt="Twitter"></a>
