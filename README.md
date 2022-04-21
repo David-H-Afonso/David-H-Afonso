@@ -4,7 +4,7 @@
 <p>Always learning ✨</p>
 <p>Platzi student, with a lot of effort. I've been learning programming since 16, and at 18 I decided to specialize at Web Development. I really like to organize projects and to build and review code to make it better and more efficient.</p>
 <p>I am from Spain and I love tech related topics, videogames and geek things! 🚀✨👨‍💻</p>
-<h2>🌱 I’m currently learning</h2>
+<h2>🌱 Always Growing, Always learning </h2>
 <ul>
   <h3>Working on:</h3>
   <li>⚛ ReactJS</li>
