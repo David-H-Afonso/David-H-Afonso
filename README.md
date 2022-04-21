@@ -19,9 +19,9 @@
   <li>🖥 Django</li>
 </ul>
 <h2>⚡ Fun fact</h2>
-<p>I do LOVE create Excels 📋💹. Every single time that I can 🤣</p>
+<p>I **love** creating Excels 📋💹. Every single time that I can 🤣</p>
 <h2>📫 How to reach me</h2>
 <p>
-  <a href="https://twitter.com/RikkuESP" ><img width=45px src="https://www.sharethis.com/wp-content/uploads/2017/05/Twitter.png" alt="Twitter"></a>
+  <a href="https://twitter.com/davidhafo" ><img width=45px src="https://www.sharethis.com/wp-content/uploads/2017/05/Twitter.png" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/david-hormiga-afonso/" ><img width=50px src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" alt="LinkedIn"></a>
 </p>
