@@ -1,27 +1,40 @@
-<p align="center"><a href="https://github.com/David-H-Afonso"><img width="100" src="https://avatars.githubusercontent.com/u/73822977?v=4" alt="David-H-Afonso logo"></a></p>
-<h1 align="center">🖖🏻Hi there! I'm David Hormiga Afonso 👨🏻‍💻</h1>
-<h2>😄 About me</h2>
-<p>Always learning ✨</p>
-<p>Platzi student, with a lot of effort. I've been learning programming since 16, and at 18 I decided to specialize at Web Development. I really like to organize projects and to build and review code to make it better and more efficient.</p>
-<p>I am from Spain and I love tech related topics, videogames and geek things! 🚀✨👨‍💻</p>
-<h2>🌱 Always Growing, Always learning </h2>
+<p align="center"><a href="https://github.com/David-H-Afonso"><img width="100" src="https://avatars.githubusercontent.com/u/73822977?v=4" alt="Avatar of David Hormiga Afonso"></a></p>
+<h1 align="center">David Hormiga Afonso</h1>
+<p align="center"><strong>Frontend Tech Lead · React &amp; TypeScript</strong></p>
+
+<h2>About</h2>
+<p>Frontend Tech Lead with 4+ years building scalable web and mobile apps with React and TypeScript. I define frontend architecture and standards, lead code reviews, mentor developers, and care deeply about performance, accessibility, and clean code. Experience across international, remote teams.</p>
+<p>I have also worked with Vue, Angular, React Native, and Shopify (Liquid).</p>
+
+<h2>Currently</h2>
 <ul>
-  <h3>Working on:</h3>
-  <li>⚛ ReactJS</li>
-  <li>☕ Front-End development</li>
-  <h3>I've Knowledge in:</h3>
-  <li>☕ Front-End development (HTML,CSS,JS)</li>
-  <li>⚛ ReactJS</li>
-  <li>🔰 Vue.JS</li>
-  <li>🛍 Shopify / Liquid</li>
-  <h3>Learning:</h3>
-  <li>🐍 Python</li>
-  <li>🖥 Django</li>
+  <li>Designing and enforcing architecture standards for React/TypeScript apps.</li>
+  <li>Leading teams, reviewing code, and ensuring maintainable, scalable solutions.</li>
+  <li>Promoting CI/CD, testing strategy, and reusable component libraries.</li>
 </ul>
-<h2>⚡ Fun fact</h2>
-<p>I <strong>love</strong> creating Excels 📋💹. Every single time that I can 🤣</p>
-<h2>📫 How to reach me</h2>
+
+<h2>Tech</h2>
+<ul>
+  <li><strong>Languages &amp; Frameworks:</strong> TypeScript, JavaScript (ES6+), React, Vue, Angular, React Native, HTML, CSS, Liquid</li>
+  <li><strong>Tooling &amp; Practices:</strong> Redux, Jest, Git, Webpack, CI/CD, REST APIs, Agile</li>
+</ul>
+
+<h2>Experience</h2>
+<p>Roles: Software Engineer Lead, Software Engineer, Web Developer — in e‑commerce, marketing, and enterprise products.</p>
+
+<h2>Open Source</h2>
+<ul>
+  <li>Author and maintainer of <strong>Beast Vault</strong> (includes a .NET 9 codebase).</li>
+  <li>Contributor to various community projects and internal tooling.</li>
+</ul>
+
+<h2>Contact</h2>
 <p>
-  <a href="https://twitter.com/davidhafo" ><img width=45px src="https://www.sharethis.com/wp-content/uploads/2017/05/Twitter.png" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/david-hormiga-afonso/" ><img width=50px src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/david-hormiga-afonso/">LinkedIn</a> · <a href="mailto:davidhormigafonso@gmail.com">davidhormigafonso@gmail.com</a>
 </p>
+
+<h2>Featured Projects</h2> 
+<ul> 
+  <li> <a href="https://github.com/David-H-Afonso/BeastVault.Api"><strong>BeastVault.Api</strong></a> — .NET&nbsp;9 backend Web API powering Beast Vault. </li> 
+  <li> <a href="https://github.com/David-H-Afonso/BeastVault.Front"><strong>BeastVault.Front</strong></a> — React + TypeScript frontend for Beast Vault. </li> 
+</ul>
