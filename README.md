@@ -25,6 +25,8 @@
 <h2>Open Source</h2>
 <ul>
   <li>Author and maintainer of <strong>Beast Vault</strong> (includes a .NET 9 codebase).</li>
+  <li>Author and maintainer of <strong>Games Database</strong> (includes a .NET 9 codebase).</li>
+  <li>Author and maintainer of <strong>React TS Starter</strong>.</li>
   <li>Contributor to various community projects and internal tooling.</li>
 </ul>
 
@@ -35,6 +37,9 @@
 
 <h2>Featured Projects</h2> 
 <ul> 
-  <li> <a href="https://github.com/David-H-Afonso/BeastVault.Api"><strong>BeastVault.Api</strong></a> — .NET&nbsp;9 backend Web API powering Beast Vault. </li> 
+  <li> <a href="https://github.com/David-H-Afonso/react-ts-starter"><strong>React TS Starter</strong></a> — The frontend project starter </li>
   <li> <a href="https://github.com/David-H-Afonso/BeastVault.Front"><strong>BeastVault.Front</strong></a> — React + TypeScript frontend for Beast Vault. </li> 
+  <li> <a href="https://github.com/David-H-Afonso/BeastVault.Api"><strong>BeastVault.Api</strong></a> — .NET&nbsp;9 backend Web API powering Beast Vault. </li> 
+  <li> <a href="https://github.com/David-H-Afonso/GamesDatabase.Front"><strong>Games Database</strong></a> — React + Typescript frontend for Games Database </li>
+  <li> <a href="https://github.com/David-H-Afonso/GamesDatabase.Api"><strong>Games Database</strong></a> — .NET&nbsp;9 backend web API powering Games Database </li>
 </ul>
