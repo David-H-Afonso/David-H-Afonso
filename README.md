@@ -44,6 +44,6 @@
   <li> <a href="https://github.com/David-H-Afonso/GamesDatabase.Api"><strong>Games Database</strong></a> — .NET&nbsp;9 backend web API powering Games Database </li>
   <li> <a href="https://github.com/David-H-Afonso/HouseHold.Front"><strong>HouseHold.Front</strong></a> — React + TypeScript frontend for HouseHold. </li>
   <li> <a href="https://github.com/David-H-Afonso/HouseHold.Api"><strong>HouseHold.Api</strong></a> — .NET&nbsp;9 backend Web API powering HouseHold. </li>
-  <li> <a href="https://github.com/David-H-Afonso/WoWArchive.Front"><strong>WoWArchive.Front</strong></a> — React + TypeScript frontend for WoW Archive. </li>
-  <li> <a href="https://github.com/David-H-Afonso/WoWArchive.Api"><strong>WoWArchive.Api</strong></a> — .NET&nbsp;9 backend Web API powering WoW Archive. </li>
+  <li> <a href="https://github.com/David-H-Afonso/WarcraftArchive.Front"><strong>WarcraftArchive.Front</strong></a> — React + TypeScript frontend for WoW Archive. </li>
+  <li> <a href="https://github.com/David-H-Afonso/WarcraftArchive.Api"><strong>WarcraftArchive.Api</strong></a> — .NET&nbsp;9 backend Web API powering WoW Archive. </li>
 </ul>
