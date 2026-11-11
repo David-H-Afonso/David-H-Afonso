@@ -36,6 +36,42 @@
 <p><sub>Version badges automatically read each repository's published release or declared version.</sub></p>
 
 <ul>
+    <li>
+    <p>
+      <strong>Games Database</strong> — A personal game collection manager with advanced filtering, custom views, ratings, multi-user support, and data exports.
+      <br>
+      <a href="https://github.com/David-H-Afonso/GamesDatabase.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/GamesDatabase.Api">API</a>
+    </p>
+    <p>
+      <a href="https://github.com/David-H-Afonso/GamesDatabase.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/GamesDatabase.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Games Database frontend latest release"></a>
+      <a href="https://github.com/David-H-Afonso/GamesDatabase.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/GamesDatabase.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Games Database API latest release"></a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>Jellywatch</strong> — A Jellyfin companion for tracking watch history and progress, enriching media metadata, and exploring personal viewing statistics.
+      <br>
+      <a href="https://github.com/David-H-Afonso/Jellywatch.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/Jellywatch.Api">API</a>
+    </p>
+    <p>
+      <a href="https://github.com/David-H-Afonso/Jellywatch.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/Jellywatch.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Jellywatch frontend latest release"></a>
+      <a href="https://github.com/David-H-Afonso/Jellywatch.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/Jellywatch.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Jellywatch API latest release"></a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>Beast Vault</strong> — A local-first Pokémon file vault with importing, search, filters, tags, and Pokédex tools.
+      <br>
+      <a href="https://github.com/David-H-Afonso/BeastVault.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/BeastVault.Api">API</a>
+    </p>
+    <p>
+      <a href="https://github.com/David-H-Afonso/BeastVault.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/BeastVault.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Beast Vault frontend latest release"></a>
+      <a href="https://github.com/David-H-Afonso/BeastVault.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/BeastVault.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Beast Vault API latest release"></a>
+    </p>
+  </li>
+  
   <li>
     <p>
       <strong>React TS Starter</strong> — An opinionated foundation for scalable React and TypeScript applications, with reusable project structure and tooling.
@@ -80,42 +116,6 @@
     <p>
       <a href="https://github.com/David-H-Afonso/Watchboard.Front/blob/main/package.json"><img src="https://img.shields.io/github/package-json/v/David-H-Afonso/Watchboard.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Watchboard frontend version from package.json"></a>
       <a href="https://github.com/David-H-Afonso/Watchboard.Api/blob/main/Watchboard.Api.csproj"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FDavid-H-Afonso%2FWatchboard.Api%2Fmain%2FWatchboard.Api.csproj&amp;query=%2FProject%2FPropertyGroup%2FVersion&amp;prefix=v&amp;style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Watchboard API version from its project file"></a>
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>Games Database</strong> — A personal game collection manager with advanced filtering, custom views, ratings, multi-user support, and data exports.
-      <br>
-      <a href="https://github.com/David-H-Afonso/GamesDatabase.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/GamesDatabase.Api">API</a>
-    </p>
-    <p>
-      <a href="https://github.com/David-H-Afonso/GamesDatabase.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/GamesDatabase.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Games Database frontend latest release"></a>
-      <a href="https://github.com/David-H-Afonso/GamesDatabase.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/GamesDatabase.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Games Database API latest release"></a>
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>Jellywatch</strong> — A Jellyfin companion for tracking watch history and progress, enriching media metadata, and exploring personal viewing statistics.
-      <br>
-      <a href="https://github.com/David-H-Afonso/Jellywatch.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/Jellywatch.Api">API</a>
-    </p>
-    <p>
-      <a href="https://github.com/David-H-Afonso/Jellywatch.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/Jellywatch.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Jellywatch frontend latest release"></a>
-      <a href="https://github.com/David-H-Afonso/Jellywatch.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/Jellywatch.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Jellywatch API latest release"></a>
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>Beast Vault</strong> — A local-first Pokémon file vault with importing, search, filters, tags, and Pokédex tools.
-      <br>
-      <a href="https://github.com/David-H-Afonso/BeastVault.Front">Frontend</a> · <a href="https://github.com/David-H-Afonso/BeastVault.Api">API</a>
-    </p>
-    <p>
-      <a href="https://github.com/David-H-Afonso/BeastVault.Front/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/BeastVault.Front?style=flat&amp;label=frontend&amp;logo=react&amp;logoColor=white&amp;color=3178C6" alt="Beast Vault frontend latest release"></a>
-      <a href="https://github.com/David-H-Afonso/BeastVault.Api/releases/latest"><img src="https://img.shields.io/github/v/release/David-H-Afonso/BeastVault.Api?style=flat&amp;label=api&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4" alt="Beast Vault API latest release"></a>
     </p>
   </li>
 
